@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "Player",
+      "slots": [
+        {
+          "name": "station",
+          "type": "STATIONS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    }
+  ]
+}
