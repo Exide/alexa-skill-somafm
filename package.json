@@ -1,0 +1,19 @@
+{
+  "name": "alexa-skill-somafm",
+  "version": "1.0.0",
+  "description": "Listen to your favorite SomaFM stations.",
+  "author": "Ryan Zander <exide@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exide/alexa-skill-somafm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Exide/alexa-skill-somafm/issues"
+  },
+  "homepage": "https://github.com/Exide/alexa-skill-somafm#readme",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.5"
+  }
+}

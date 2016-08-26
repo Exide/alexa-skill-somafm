@@ -9,7 +9,7 @@ _long description goes here_
 1. Zip up the necessary components
 
   ```
-  $ rm -f AlexaSomaFMSkill.zip; zip -r AlexaSomaFMSkill.zip index.js config.json src/
+  $ rm -f AlexaSomaFMSkill.zip; zip -r AlexaSomaFMSkill.zip node_modules/ package.json config.json index.js
   ```
 
 2. Upload the ZIP file
