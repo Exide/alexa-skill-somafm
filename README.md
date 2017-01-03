@@ -1,8 +1,5 @@
 # alexa-skill-somafm
-
-Listen to your favorite [SomaFM](http://soma.fm) stations.
-
-_long description goes here_
+The idea here is to provide voice access to [SomaFM](http://soma.fm) content via Alexa.
 
 ## How to update the AWS Lambda
 
