@@ -1,6 +1,8 @@
 # alexa-skill-somafm
 The idea here is to provide voice access to [SomaFM](http://soma.fm) content via Alexa.
 
+**NOTE: Development on this project is on hold. SomaFM uses [TuneIn](https://tunein.com/) to broadcast its stations through Alexa.**
+
 ## How to update the AWS Lambda
 
 1. Zip up the necessary components
